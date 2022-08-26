@@ -1,0 +1,27 @@
+:root {
+    box-sizing: border-box;
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    --primary-color: #3498db;
+    --primary-color-deep: #2980b9;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: inherit;
+    color: var(--primary-color);
+}
+
+a:hover {
+    color: var(--primary-color-deep);
+}
