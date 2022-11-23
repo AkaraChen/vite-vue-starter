@@ -4,7 +4,7 @@ specifiers:
   '@vitejs/plugin-vue': 3.2.0
   '@vueuse/core': 9.6.0
   axios: 1.2.0
-  pinia: 2.0.25
+  pinia: 2.0.26
   typescript: 4.9.3
   vite: 3.2.4
   vite-plugin-pages: 0.27.1
@@ -15,7 +15,7 @@ specifiers:
 dependencies:
   '@vueuse/core': 9.6.0_vue@3.2.45
   axios: 1.2.0
-  pinia: 2.0.25_mgnvym7yiazkylwwogi5r767ue
+  pinia: 2.0.26_mgnvym7yiazkylwwogi5r767ue
   vue: 3.2.45
   vue-router: 4.1.6_vue@3.2.45
 
@@ -1037,8 +1037,8 @@ packages:
     engines: {node: '>=8.6'}
     dev: true
 
-  /pinia/2.0.25_mgnvym7yiazkylwwogi5r767ue:
-    resolution: {integrity: sha512-3reAkjJ6bW2D5hZKRMS0c9rUbHVlsVyZd037xO0PJr2AuF/09RRSBnFLlJgmHF4Jx6dEoW/jZBOHTushY7IMlw==}
+  /pinia/2.0.26_mgnvym7yiazkylwwogi5r767ue:
+    resolution: {integrity: sha512-tSxZNUcMGxQOvKZRjPKXxd2+/2NZhRF/CoYVE/+K6uE/Z3v1Oi4fcQFpxu5nMB1dCchjXUZ+lz0tBxV5ntwmQQ==}
     peerDependencies:
       '@vue/composition-api': ^1.4.0
       typescript: '>=4.4.4'
