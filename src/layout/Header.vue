@@ -1,7 +1,9 @@
 <template>
     <nav :class="$style.container">
         <router-link to="/">
-            <h1 :class="$style.title">Vite Vue TS starter</h1>
+            <h1 :class="$style.title">
+                Vite Vue TS starter
+            </h1>
         </router-link>
     </nav>
 </template>

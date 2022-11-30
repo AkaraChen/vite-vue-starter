@@ -1,10 +1,15 @@
 <template>
-    <button :class="$style.button">
+    <button
+        class="inline-flex rounded px-4 py-2"
+        font="medium"
+        outline="1 blue-500"
+        bg="slate-50"
+    >
         <slot />
     </button>
 </template>
 
-<style module>
+<style>
 .button {
     display: inline-flex;
     border-radius: 8px;
