@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@types/node': ^18.11.9
   '@vitejs/plugin-vue': 4.0.0
-  '@vueuse/core': 9.7.0
+  '@vueuse/core': 9.8.0
   axios: 1.2.1
   eslint: ^8.28.0
   eslint-config-akrc: ^0.0.10
@@ -18,7 +18,7 @@ specifiers:
   windicss: ^3.5.6
 
 dependencies:
-  '@vueuse/core': 9.7.0_vue@3.2.45
+  '@vueuse/core': 9.8.0_vue@3.2.45
   axios: 1.2.1
   pinia: 2.0.28_prq2uz4lho2pwp6irk4cfkrxwu
   vue: 3.2.45
@@ -666,24 +666,24 @@ packages:
   /@vue/shared/3.2.45:
     resolution: {integrity: sha512-Ewzq5Yhimg7pSztDV+RH1UDKBzmtqieXQlpTVm2AwraoRL/Rks96mvd8Vgi7Lj+h+TH8dv7mXD3FRZR3TUvbSg==}
 
-  /@vueuse/core/9.7.0_vue@3.2.45:
-    resolution: {integrity: sha512-/AGY/t7jJPxCyRoVTygNKoroTiCvRaaZIW+yeSlBCnI7QRpQ9cvXNTdNaSl3GvSyFbn83+XwZwEZvI1OpQfeGw==}
+  /@vueuse/core/9.8.0_vue@3.2.45:
+    resolution: {integrity: sha512-TsnPwRu35TQ6RumwelfnK4SmXBgapPcsATffNA96LyXZiboKPSjZAix0wvNm83fcQOg7YVDbQIUxGXpIQwuueQ==}
     dependencies:
       '@types/web-bluetooth': 0.0.16
-      '@vueuse/metadata': 9.7.0
-      '@vueuse/shared': 9.7.0_vue@3.2.45
+      '@vueuse/metadata': 9.8.0
+      '@vueuse/shared': 9.8.0_vue@3.2.45
       vue-demi: 0.13.11_vue@3.2.45
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
     dev: false
 
-  /@vueuse/metadata/9.7.0:
-    resolution: {integrity: sha512-M7WsAgw28FNtTH0bzsGuHEtJOPJqPpyeHS6PHq+8UesLgNjZ9waMAntiUrgUQlxt09M4i2lH7y9sRi0jkfeXGA==}
+  /@vueuse/metadata/9.8.0:
+    resolution: {integrity: sha512-Izw87Dm3vCpQqJNbOG6nt8GDCYjphOxds59WQFwKDxMIjyIxoGDFz5YVvkzPKCCpd+xErdi1g+MEyVTrASLeyg==}
     dev: false
 
-  /@vueuse/shared/9.7.0_vue@3.2.45:
-    resolution: {integrity: sha512-pwmt1y3TJ2s5KqWmkv9ZKEV59GwuZQZk8XLiU+hGswz0jej318ozbea9E4A/A50ksyM26swSFr7sZ9llNPsZHg==}
+  /@vueuse/shared/9.8.0_vue@3.2.45:
+    resolution: {integrity: sha512-Cm9n23SGDrP/8Nw6n40CtC1QTnd5nvv0mZmakOXPStYxF1O4JH+CDVXW2wVobS0S3QyriWTPWOWiyVEJtk3c+A==}
     dependencies:
       vue-demi: 0.13.11_vue@3.2.45
     transitivePeerDependencies:
