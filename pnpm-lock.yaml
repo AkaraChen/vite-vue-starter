@@ -6,7 +6,7 @@ specifiers:
   '@vueuse/core': 9.8.2
   axios: 1.2.1
   eslint: ^8.28.0
-  eslint-config-akrc: ^0.0.10
+  eslint-config-akrc: ^0.0.11
   pinia: 2.0.28
   typescript: 4.9.4
   vite: 4.0.2
@@ -28,7 +28,7 @@ devDependencies:
   '@types/node': 18.11.9
   '@vitejs/plugin-vue': 4.0.0_vite@4.0.2+vue@3.2.45
   eslint: 8.28.0
-  eslint-config-akrc: 0.0.10
+  eslint-config-akrc: 0.0.11
   typescript: 4.9.4
   vite: 4.0.2_@types+node@18.11.9
   vite-plugin-pages: 0.28.0_vite@4.0.2
@@ -1169,8 +1169,8 @@ packages:
       semver: 6.3.0
     dev: true
 
-  /eslint-config-akrc/0.0.10:
-    resolution: {integrity: sha512-G/Gc+YchTG+IGCWRny6aabH9+5xTijTDNLYj460rPGPRDA0bGvoRc9x6IZPjAgLZojrQCiIwkHCp4rQ0binBWg==}
+  /eslint-config-akrc/0.0.11:
+    resolution: {integrity: sha512-Yt3D9nG8A3EFiAufCEsPUet/fGvWEko777C0Ra6WyShXGf/DdP3icjXj2Btr3UCvn8Gnfeyw3OYo1sLR9K0SUw==}
     requiresBuild: true
     dependencies:
       '@typescript-eslint/eslint-plugin': 5.46.1_mqzxmroayievgzgel6yrqgih5i
