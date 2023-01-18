@@ -4,7 +4,7 @@ specifiers:
   '@types/node': ^18.11.9
   '@vitejs/plugin-vue': 4.0.0
   '@vueuse/core': 9.11.0
-  axios: 1.2.2
+  axios: 1.2.3
   eslint: ^8.28.0
   eslint-config-akrc: ^1.0.0
   pinia: 2.0.29
@@ -19,7 +19,7 @@ specifiers:
 
 dependencies:
   '@vueuse/core': 9.11.0_vue@3.2.45
-  axios: 1.2.2
+  axios: 1.2.3
   pinia: 2.0.29_prq2uz4lho2pwp6irk4cfkrxwu
   vue: 3.2.45
   vue-router: 4.1.6_vue@3.2.45
@@ -815,8 +815,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /axios/1.2.2:
-    resolution: {integrity: sha512-bz/J4gS2S3I7mpN/YZfGFTqhXTYzRho8Ay38w2otuuDR322KzFIWm/4W2K6gIwvWaws5n+mnb7D1lN9uD+QH6Q==}
+  /axios/1.2.3:
+    resolution: {integrity: sha512-pdDkMYJeuXLZ6Xj/Q5J3Phpe+jbGdsSzlQaFVkMQzRUL05+6+tetX8TV3p4HrU4kzuO9bt+io/yGQxuyxA/xcw==}
     dependencies:
       follow-redirects: 1.15.1
       form-data: 4.0.0
