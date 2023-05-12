@@ -22,8 +22,8 @@ devDependencies:
     specifier: ^18.11.9
     version: 18.11.9
   '@vitejs/plugin-vue':
-    specifier: 4.1.0
-    version: 4.1.0(vite@4.2.0)(vue@3.2.47)
+    specifier: 4.2.3
+    version: 4.2.3(vite@4.2.0)(vue@3.2.47)
   eslint:
     specifier: ^8.28.0
     version: 8.28.0
@@ -572,8 +572,8 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@vitejs/plugin-vue@4.1.0(vite@4.2.0)(vue@3.2.47):
-    resolution: {integrity: sha512-++9JOAFdcXI3lyer9UKUV4rfoQ3T1RN8yDqoCLar86s0xQct5yblxAE+yWgRnU5/0FOlVCpTZpYSBV/bGWrSrQ==}
+  /@vitejs/plugin-vue@4.2.3(vite@4.2.0)(vue@3.2.47):
+    resolution: {integrity: sha512-R6JDUfiZbJA9cMiguQ7jxALsgiprjBeHL5ikpXfJCH62pPHtI+JdJ5xWj6Ev73yXSlYl86+blXn1kZHQ7uElxw==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^4.0.0
